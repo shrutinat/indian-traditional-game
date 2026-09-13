@@ -1,8 +1,6 @@
 # Pallanguzhi — A Traditional Indian Game
 
-A complete, playable two-player Pallanguzhi board game built with **Python** and **Pygame**, packaged for Windows using **PyInstaller**. Built as a college game-development project.
-
----
+A complete, playable two-player Pallanguzhi board game built with **Python** and **Pygame**, packaged for Windows using **PyInstaller**. 
 
 ## How to Play (Rules Implemented)
 
